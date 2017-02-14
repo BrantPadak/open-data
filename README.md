@@ -12,6 +12,7 @@
 * [Environment](#environment)
 * [Geographic Boundaries](#boundaries)
 * [Geography](#geography)
+* [Government](#government)
 * [Health & Wellness](#health)
 * [Homelessness](#homelessness)
 * [Housing](#housing)
@@ -28,6 +29,9 @@
 * [Not Classified](#unclassified)
 
 
+Other resources that aren't limited to Atlanta or Georgia but may be of interest:
+* [Data.gov](https://www.data.gov/)
+* [Open Data Network](https://www.opendatanetwork.com/)
 
 
 # <div id="portals">Data Portals</div>
@@ -40,6 +44,7 @@
 * [Fulton County Geoportal](http://share.myfultoncountyga.us:8080/geoportal/catalog/main/home.page)
 * [Sandy Springs Open Data](http://data.coss.opendata.arcgis.com/)
 * [Georgia Open Data](http://data.georgiagio.opendata.arcgis.com/datasets)
+* [Tucker Open Data](http://data-tucker-ga.opendata.arcgis.com/)
 
 ## Not Georgia-Specific
 * [Open Data Network](https://www.opendatanetwork.com/entity/310M200US12060/Atlanta_Metro_Area_GA/demographics.population.count?ref=search-entity&year=2014)
@@ -69,6 +74,7 @@
 
 ## Atlanta
 * [Atlanta Police Department Open Data](http://opendata.atlantapd.org/)
+* [Atlanta Police Department Crime Data Downloads](http://www.atlantapd.org/i-want-to/crime-data-downloads)
 * [Atlanta Police Department Data](https://github.com/codeforatlanta/apd-crime-data/blob/master/APD_crime.csv)
 
 ## Johns Creek
@@ -120,6 +126,8 @@
 ## Atlanta
 * [Community Development Impact Areas](http://govathon.com/CDIA.ZIP)
 * [Empowerment Zones](http://govathon.com/Empowerment_Zones.zip)
+* [Construction Permits](https://aca3.accela.com/atlanta_ga/Cap/CapHome.aspx?module=Building&TabName=Building)
+* [Business Listings](https://web.atlantaga.gov/blis/businesslookup.aspx)
 
 
 
@@ -280,6 +288,9 @@
 ## Sandy Springs
 * [City Council Districts](http://data.coss.opendata.arcgis.com/datasets/115bba1b0fb748649f684b1431f14a06_104)
 
+## Tucker
+* [City Council Districts](http://data-tucker-ga.opendata.arcgis.com/datasets/council-districts)
+
 ## Miscellaneous
 * [Aerotropolis boundary](http://opendata.atlantaregional.com/datasets/aerotropolis-boundary)
 * [Employer Service Organization boundaries](http://opendata.atlantaregional.com/datasets/employer-service-organizations)
@@ -312,6 +323,18 @@
 
 
 
+# <div id="government">Government</div>
+
+## Atlanta
+* [Campaign Finance Contributions](http://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions.aspx)
+* [Lobbyist Activity](http://media.ethics.ga.gov/search/Lobbyist/Lobbyist_ByName.aspx)
+* [Asset Disclosure](http://media.ethics.ga.gov/search/Financial/Financial_ByName.aspx)
+* [Budget](http://www.atlantaga.gov/index.aspx?page=204)
+* [Procurement](http://www.atlantaga.gov/index.aspx?page=1014)
+
+
+
+
 
 # <div id="health">Health & Wellness</div>
 
@@ -325,6 +348,9 @@
 * [Medicare & Medicaid Data](https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems.html?redirect=/home/rsds.asp)
 * [Health Resources & Services Administration Data Warehouse](https://datawarehouse.hrsa.gov/)
 * [Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/)
+
+## Georgia
+* [Restaurant Inspections](http://dph.georgia.gov/environmental-health-inspections)
 
 ## Atlanta Regional Commission
 * [Hospital Community Facilities](http://opendata.atlantaregional.com/datasets/hospital-community-facilities)
@@ -548,11 +574,14 @@
 
 # <div id="zoning">Zoning
 
+## Johns Creek
+* [Zoning](http://geodata.johnscreekga.gov/datasets/40b558a400ea4e28bce6f33c40701653_0)
+
 ## Sandy Springs
 * [Zoning](http://data.coss.opendata.arcgis.com/datasets/264eb8be832043aba237ee2feda1f7e5_110)
 
-## Johns Creek
-* [Zoning](http://geodata.johnscreekga.gov/datasets/40b558a400ea4e28bce6f33c40701653_0)
+## Tucker
+* [Zoning](http://data-tucker-ga.opendata.arcgis.com/datasets/zoning-districts)
 
 
 
@@ -568,15 +597,24 @@
 * [Structure Footprints](http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid=%7BDF98E97E-BA8B-453E-A2AD-A7DFB74FF58A%7D)
 * [Aerial Imagery](http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid=%7BBBB7FC62-FE3D-4F87-9D19-BC3E965304D1%7D)
 
-## Sandy Springs
-* [Buildings Pavement Area](http://data.coss.opendata.arcgis.com/datasets/eb2c078ee8384dfa99a3fa621c08ee68_102)
+## Atlanta
+* [Code Enforcement Violations](https://aca3.accela.com/atlanta_ga/default.aspx)
+* [Property Records](http://www.qpublic.net/ga/fulton/search.html)
 
 ## Johns Creek
 * [Code Compliance Cases](http://geodata.johnscreekga.gov/datasets/3bf0f1171a1b4bd79223ecf6c146accc_0)
 * [Building Permits Issued](http://geodata.johnscreekga.gov/datasets/65b4974c90f8465a99fec4d4ff7d7b30_0)
 
+
+## Sandy Springs
+* [Buildings Pavement Area](http://data.coss.opendata.arcgis.com/datasets/eb2c078ee8384dfa99a3fa621c08ee68_102)
+
+## Tucker
+* [Proposed Land Use](http://data-tucker-ga.opendata.arcgis.com/datasets/proposed-land-use)
+
 ## FCC
 * [FCC Developers Page](https://www.fcc.gov/reports-research/developers)
+
 
 
 
